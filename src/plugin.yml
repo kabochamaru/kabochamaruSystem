@@ -1,0 +1,9 @@
+name: kabochamaruSystem
+main: kabochamaru.kabochamaruSystem.kabochamaruSystem
+version: 1.0.0
+author: kabochamaru
+description: bukkit Plugin
+commands:
+  kabochamaru:
+    description: "かぼちゃののろい"
+    permission: op
